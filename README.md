@@ -9,3 +9,6 @@ We will solve this problem using python with different algorithms like brute for
 The algorithm will be analyzed using two methods (Analytical – Empirical). In the Empirical Method we will rely on two testing method:
 -	timeit Library: to calculate the execution time from the start of function call to the end of it.
 -	Leetcode: problem solving platform provide test cases and analysis to your algorithm.
+
+For more details and results check the documentation. 
+colab live : https://colab.research.google.com/drive/1VaTmQw_9LYHatCtj-guSV4-QHu66q11n?usp=sharing 
