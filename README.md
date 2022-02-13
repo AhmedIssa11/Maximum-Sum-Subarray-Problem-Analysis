@@ -10,5 +10,6 @@ The algorithm will be analyzed using two methods (Analytical – Empirical). In 
 -	timeit Library: to calculate the execution time from the start of function call to the end of it.
 -	Leetcode: problem solving platform provide test cases and analysis to your algorithm.
 
-For more details and results check the documentation. 
+For more details and results:
+documentation : https://bit.ly/3uQvZJ1
 colab live : https://colab.research.google.com/drive/1VaTmQw_9LYHatCtj-guSV4-QHu66q11n?usp=sharing 
